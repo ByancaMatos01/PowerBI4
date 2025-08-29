@@ -21,8 +21,7 @@ Calcular a **média de venda de telefones**, aplicando as fórmulas aprendidas (
 
 ## 📂 Estrutura do Repositório  
 <pre>
-PowerBI_Dia3/
-│
+PowerBI_Dia4/
 ├─ README.md
 ├─ datasets/
 │ └─ superstore.csv
