@@ -11,8 +11,13 @@
   - `FILTER` → Filtrar dados com base em critérios  
   - `CALCULATE` → Alterar o contexto de cálculo  
 
+### 🔹 Relátorio usando as fomulas aprendidas  
+![Formulas](imagens/Formulas.png)  
+
 ## 🧠 Desafio do dia
 Calcular a **média de venda de telefones**, aplicando as fórmulas aprendidas (`SUM`, `AVERAGE`, `FILTER`, `IF`, `CALCULATE`).  
+
+![Desafio](imagens/Phone_Sales.png)  
 
 ## 🛠️ Ferramentas Utilizadas  
 - **Power BI Desktop**  
