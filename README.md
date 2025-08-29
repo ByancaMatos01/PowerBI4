@@ -14,3 +14,25 @@
 ## 🧠 Desafio do dia
 Calcular a **média de venda de telefones**, aplicando as fórmulas aprendidas (`SUM`, `AVERAGE`, `FILTER`, `IF`, `CALCULATE`).  
 
+## 🛠️ Ferramentas Utilizadas  
+- **Power BI Desktop**  
+- **Power Query**  
+---
+
+## 📂 Estrutura do Repositório  
+<pre>
+PowerBI_Dia3/
+│
+├─ README.md
+├─ datasets/
+│ └─ superstore.csv
+├─ relatorios/
+│ ├─ vendas.pbix
+└─ imagens/
+├─ Formulas.png
+├─ Phone_Sales.png
+</pre>
+
+---
+
+✨ Esse repositório faz parte da minha trilha de aprendizado em **Business Intelligence** e **Data Analytics**.  
